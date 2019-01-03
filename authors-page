@@ -263,11 +263,4 @@ function my_custom_loop() {
 	}
 
 
-
-
-
-
-
-
-
 	genesis();
